@@ -5567,22 +5567,7 @@
         "chainId": 250,
         "logoURI": "https://i.imgur.com/VkiqtQp.png"
       },
-{
-  "name": "SpookySwap Default List",
-  "timestamp": "2021-04-06T22:05:02Z",
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  },
-  "tags": {},
-  "logoURI": "http://assets.spookyswap.finance/tokens/BOO.png",
-  "keywords": [
-    "spookyswap",
-    "default"
-  ],
-  "tokens": [
-    {
+        {
       "name": "Aave",
       "symbol": "AAVE",
       "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
@@ -5969,9 +5954,7 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.spookyswap.finance/tokens/STEAK.png"
-    }
-  ]
-},
+   },
       {
         "name": "Cream",
         "address": "0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6",
@@ -6131,7 +6114,167 @@
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://ftmscan.com/token/images/Synthetix_SNX_32.png"
-      }
+      },
+      {
+        "name": "Cream",
+        "address": "0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6",
+        "symbol": "CREAM",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://ftmscan.com/token/images/CreamFinance_32.png"
+      },
+      {
+        "name": "Curve DAO",
+        "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+        "symbol": "CRV",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://ftmscan.com/token/images/CurveFi_32.png"
+      },
+      {
+        "name": "Shrapnel",
+        "address": "0xbf4906762c38f50bc7be0a11bb452c944f6c72e1",
+        "symbol": "SHARP",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://swap.fbomb.finance/images/coins/0xbf4906762C38F50bC7Be0A11BB452C944f6C72E1.png"
+      },
+      {
+        "name": "BOMB",
+        "address": "0x8503eb4a136bdbeb323e37aa6e0fa0c772228378",
+        "symbol": "BOMB",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://swap.fbomb.finance/images/coins/bomb.png"
+      },
+      {
+        "name": "SpiritSwap",
+        "address": "0x5cc61a78f164885776aa610fb0fe1257df78e59b",
+        "symbol": "SPIRIT",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10239.png"
+      },
+      {
+        "name": "Dai Stablecoin",
+        "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+        "symbol": "DAI",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://ftmscan.com/token/images/MCDDai_32.png"
+      },
+      {
+        "name": "Frax",
+        "address": "0xaf319E5789945197e365E7f7fbFc56B130523B33",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://ftmscan.com/token/images/fraxfinance_32.png"
+      },
+      {
+        "name": "fSilver",
+        "address": "0xf15e88EEf35BF4709A4C3E99c00358F9247D4531",
+        "symbol": "fSILVER",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://repository.fantom.network/logos/silver.svg"
+      },
+      {
+        "name": "Fantom USD",
+        "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
+        "symbol": "fUSD",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://ftmscan.com/token/images/fUSD_32.png"
+      },
+      {
+        "name": "Paint Token",
+        "symbol": "BRUSH",
+        "address": "0x85dec8c4B2680793661bCA91a8F129607571863d",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://exchange.paintswap.finance/images/coins/0x85dec8c4B2680793661bCA91a8F129607571863d.png"
+      },
+      {
+        "name": "Chad Finance",
+        "address": "0xCcE93540b80ABF71B66E0a44fd71E322cE9C4D9e",
+        "symbol": "CHAD",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://exchange.paintswap.finance/images/coins/0xCcE93540b80ABF71B66E0a44fd71E322cE9C4D9e.png"
+      },
+      {
+        "name": "Tomb Finance",
+        "address": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
+        "symbol": "TOMB",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://exchange.paintswap.finance/images/coins/0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7.png"
+      },
+      {
+        "name": "Shiba Fantom",
+        "address": "0x9ba3e4f84a34df4e08c112e1a0ff148b81655615",
+        "symbol": "SHIBA",
+        "decimals": 9,
+        "chainId": 250,
+        "logoURI": "https://exchange.paintswap.finance/images/coins/0x9Ba3e4F84a34DF4e08C112e1a0FF148b81655615.png"
+      },
+      {
+        "name": "Hegic",
+        "address": "0x44B26E839eB3572c5E959F994804A5De66600349",
+        "symbol": "HEGIC",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://ftmscan.com/token/images/hegic_32.png"
+      },
+      {
+        "name": "IceToken",
+        "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
+        "symbol": "ICE",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xf16e81dce15B08F326220742020379B855B87DF9/logo.png"
+      },
+      {
+        "name": "Keep3r",
+        "address": "0x2A5062D22adCFaAfbd5C541d4dA82E4B450d4212",
+        "symbol": "KP3R",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://ftmscan.com/token/images/kp3r_32.png"
+      },
+      {
+        "name": "ChainLink",
+        "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
+        "symbol": "LINK",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://ftmscan.com/token/images/chainlink_32.png"
+      },
+      {
+        "name": "Spice",
+        "address": "0x924828a9Fb17d47D0eb64b57271D10706699Ff11",
+        "symbol": "SFI",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://ftmscan.com/token/images/saffron_32.png"
+      },
+      {
+        "name": "Staked FTM",
+        "address": "0x69c744D3444202d35a2783929a0F930f2FBB05ad",
+        "symbol": "sFTM",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://repository.fantom.network/logos/sftm.svg"
+      },
+      {
+        "name": "Synthetix Network",
+        "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
+        "symbol": "SNX",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://ftmscan.com/token/images/Synthetix_SNX_32.png"
+      },
       {
         "name": "Wrapped HT",
         "address": "0x5B2DA6F42CA09C77D577a12BeaD0446148830687",
