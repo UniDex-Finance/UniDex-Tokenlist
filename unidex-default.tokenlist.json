@@ -5577,10 +5577,10 @@
      },
       {
       "name": "Seance Circle",
-      "address": "0xba34A07d0282A023e08ceb6098E59dFBEbE9f1E1",
+      "address": "0x124b06c5ce47de7a6e9efda71a946717130079e6",
       "symbol": "SEANCE",
       "decimals": 18,
-      "chainId": 4002,
+      "chainId": 250,
       "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom-testnet/assets/0xba34a07d0282a023e08ceb6098e59dfbebe9f1e1/logo.png"
      },
       {
