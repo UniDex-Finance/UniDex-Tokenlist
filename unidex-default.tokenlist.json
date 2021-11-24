@@ -6623,11 +6623,11 @@
       },
       {
         "chainId": 43114,
-        "address": "0xC309fd43f845A46AA2A4C75459b076543C6E9F4a",
+        "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
         "decimals": 18,
-        "name": "0xMonero",
-        "symbol": "0xMR",
-        "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC309fd43f845A46AA2A4C75459b076543C6E9F4a/logo.png"
+        "name": "USDC.e",
+        "symbol": "USDC.e",
+        "logoURI": "https://snowtrace.io/token/images/centre-usdc_28.png"
       },
       {
         "chainId": 43114,
