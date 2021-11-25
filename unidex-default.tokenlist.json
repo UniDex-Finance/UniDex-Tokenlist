@@ -7916,6 +7916,14 @@
       "symbol": "OLO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x5008F837883EA9a07271a1b5eB0658404F5a9610/logo.png"
+    },
+    {
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "chainId": 288,
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000/logo.png"
     },    
      {
       "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
