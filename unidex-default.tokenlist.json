@@ -7900,7 +7900,78 @@
       "symbol": "MATIC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/moonfarmin/moonfarm-contracts-v2/master/images/polygon.png"
-    }
+    },    {
+      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "chainId": 288,
+      "name": "Avalanche Token",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/moonfarmin/moonfarm-contracts-v2/master/images/avalanche.png"
+    },
+    {
+      "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
+      "chainId": 288,
+      "name": "Matic Token",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/moonfarmin/moonfarm-contracts-v2/master/images/polygon.png"
+    },
+     {
+      "address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
+      "chainId": 288,
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.svg?v=013"
+    },
+    {
+      "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
+      "chainId": 288,
+      "name": "USDC Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=013"
+    },
+    {
+      "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
+      "chainId": 288,
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/binance-usd-busd-logo.svg?v=013"
+    },
+    {
+      "address": "0xf74195Bb8a5cf652411867c5C2C5b8C2a402be35",
+      "chainId": 288,
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=013"
+    },
+    {
+      "address": "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b",
+      "chainId": 288,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.svg?v=013"
+    },
+     {
+      "address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
+      "chainId": 288,
+      "name": "Boba Token",
+      "symbol": "BOBA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7/logo.png"
+    },   
+    {
+      "address": "0x5008F837883EA9a07271a1b5eB0658404F5a9610",
+      "chainId": 288,
+      "name": "Oolongswap Token",
+      "symbol": "OLO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x5008F837883EA9a07271a1b5eB0658404F5a9610/logo.png"
+    },
     ]
   }
   
