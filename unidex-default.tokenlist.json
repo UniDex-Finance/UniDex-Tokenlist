@@ -7989,6 +7989,22 @@
       "chainId": 288,
       "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x922D641a426DcFFaeF11680e5358F34d97d112E1/logo.png"
     },
+     {
+      "name": "Senpai Token",
+      "address": "0xaC3a4aF1778203c8B651dAfA73cEd5b79c80F239",
+      "symbol": "SENPAI",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/0xMai/token-logos/master/288/0xaC3a4aF1778203c8B651dAfA73cEd5b79c80F239/logo.png"
+    },
+     {
+      "name": "Waifu Token",
+      "address": "0xB5cB0975716A4AA6438d3FA02364886E13fd678c",
+      "symbol": "WAIFU",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/f_auto,w_64/https://raw.githubusercontent.com/SwapperChan/token-list/master/logos/0xB5cB0975716A4AA6438d3FA02364886E13fd678c/logo.png"
+    },
     {
       "name": "OolongSwap Token",
       "address": "0x5008F837883EA9a07271a1b5eB0658404F5a9610",
