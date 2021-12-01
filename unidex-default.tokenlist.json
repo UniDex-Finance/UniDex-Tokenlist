@@ -5624,6 +5624,14 @@
       "logoURI": "https://assets.spookyswap.finance/tokens/BOO.png"
     },
     {
+      "name": "GIZA",
+      "address": "0x3389492f36642f27F7bF4a7749fb3FC2c8fbB7EE",
+      "symbol": "GIZA",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://pbs.twimg.com/profile_images/1454537818277957637/_dLPsk9__400x400.jpg"
+    },
+    {
       "name": "Cover Protocol",
       "symbol": "COVER",
       "address": "0xB01E8419d842beebf1b70A7b5f7142abbaf7159D",
