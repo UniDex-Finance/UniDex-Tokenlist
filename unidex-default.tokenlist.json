@@ -5640,6 +5640,22 @@
       "logoURI": "https://ftmscan.com/token/images/fantohm2_32.png"
     },
     {
+      "name": "Exodia",
+      "symbol": "EXOD",
+      "address": "0x3b57f3FeAaF1e8254ec680275Ee6E7727C7413c7",
+      "chainId": 250,
+      "decimals": 9,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13642.png"
+    },
+    {
+      "name": "Spartacus",
+      "symbol": "SPA",
+      "address": "0x5602df4A94eB6C680190ACCFA2A475621E0ddBdc",
+      "chainId": 250,
+      "decimals": 9,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13748.png"
+    },
+    {
       "name": "Cover Protocol",
       "symbol": "COVER",
       "address": "0xB01E8419d842beebf1b70A7b5f7142abbaf7159D",
