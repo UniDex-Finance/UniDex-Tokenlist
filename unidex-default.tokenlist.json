@@ -5600,6 +5600,22 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png"
     },
     {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "chainId": 250,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
+    },
+    {
+      "name": "Luxor",
+      "symbol": "LUX",
+      "address": "0x6671e20b83ba463f270c8c75dae57e3cc246cb2b",
+      "chainId": 250,
+      "decimals": 9,
+      "logoURI": "https://app.luxor.money/static/media/logo.6853673b.png"
+    },
+    {
       "name": "Badger",
       "symbol": "BADGER",
       "address": "0x753fbc5800a8C8e3Fb6DC6415810d627A387Dfc9",
@@ -5734,14 +5750,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-    },
-    {
-      "name": "USD Coin",
-      "symbol": "USDC",
-      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
-      "chainId": 250,
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
     },
     {
       "name": "Wrapped Bitcoin",
