@@ -30,20 +30,20 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
       },
       {
-        "address": "0x10be9a8dae441d276a5027936c3aaded2d82bc15",
+        "address": "0x72e364f2abdc788b7e918bc238b21f109cd634d7",
         "chainId": 1,
-        "name": "UniMex Network",
-        "symbol": "UMX",
+        "name": "Metaverse Index",
+        "symbol": "MVI",
         "decimals": 18,
-        "logoURI": "https://tokens.1inch.exchange/0x10be9a8dae441d276a5027936c3aaded2d82bc15.png"
+        "logoURI": "https://etherscan.io/token/images/mvi_32.png"
       },
       {
-        "address": "0x4bae380b5d762d543d426331b8437926443ae9ec",
+        "address": "0x72e364f2abdc788b7e918bc238b21f109cd634d7",
         "chainId": 1,
-        "name": "XVIX",
-        "symbol": "XVIX",
+        "name": "Metaverse Index",
+        "symbol": "MVI",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/13364/thumb/xvix_logo.png?1607914655"
+        "logoURI": "https://etherscan.io/token/images/mvi_32.png"
       },
       {
         "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
