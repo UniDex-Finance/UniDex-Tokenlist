@@ -6422,7 +6422,8 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13287/large/badger_dao_logo.jpg"
-    },    {
+    },    
+    {
       "name": "Avalanche",
       "symbol": "AVAX",
       "address": "0x511d35c52a3c244e7b8bd92c0c297755fbd89212",
@@ -6437,6 +6438,14 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/9545/large/band-protocol.png"
+    },
+    {
+      "name": "Hundred Finance",
+      "symbol": "HND",
+      "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/hundredfinance_32.png"
     },
     {
       "name": "SpookySwap",
@@ -6485,6 +6494,46 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13563/large/1_eWBbDaqpxXqt7WYPSP4qSw.jpeg"
+    },
+    {
+      "name": "Catoshi",
+      "symbol": "CATS",
+      "address": "0x64674D26df0Fd7cF8e9d5c8D721Bc202C6B98822",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/catoshi_32.png"
+    },
+    {
+      "name": "Exodia",
+      "symbol": "EXOD",
+      "address": "0x3b57f3FeAaF1e8254ec680275Ee6E7727C7413c7",
+      "chainId": 250,
+      "decimals": 9,
+      "logoURI": "https://pbs.twimg.com/profile_images/1462227841966292994/iHlsQQ8A_400x400.jpg"
+    },
+    {
+      "name": "Hector DAO",
+      "symbol": "HEC",
+      "address": "0x5C4FDfc5233f935f20D2aDbA572F770c2E377Ab0",
+      "chainId": 250,
+      "decimals": 9,
+      "logoURI": "https://ftmscan.com/token/images/hectordao_32.png"
+    },
+    {
+      "name": "Morpheus Token",
+      "symbol": "MORPH",
+      "address": "0x0789ff5ba37f72abc4d561d00648acadc897b32d",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11896.png"
+    },
+    {
+      "name": "PILLS Token",
+      "symbol": "PILLS",
+      "address": "0xB66b5D38E183De42F21e92aBcAF3c712dd5d6286",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18306/small/pills.png?1639992136"
     },
     {
       "name": "Cream",
