@@ -6560,6 +6560,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/9956/large/dai-multi-collateral-mcd.png"
     },
     {
+      "name": "veDAO",
+      "symbol": "WeVE",
+      "address": "0x911da02c1232a3c3e1418b834a311921143b04d7",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://swap.spiritswap.finance/images/coins/WeVE.png"
+    },
+    {
       "name": "Frapped USDT",
       "symbol": "fUSDT",
       "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
