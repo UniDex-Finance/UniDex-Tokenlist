@@ -8998,14 +8998,6 @@
       "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000/logo.png"
     },
     {
-      "name": "USDC",
-      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
-      "symbol": "USDC",
-      "decimals": 6,
-      "chainId": 10,
-      "logoURI": "https://optimistic.etherscan.io/token/images/usdc_32.png"
-    },
-    {
       "name": "Lyra",
       "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
       "symbol": "LYRA",
@@ -9020,6 +9012,22 @@
       "decimals": 18,
       "chainId": 10,
       "logoURI": "https://ethereum-optimism.github.io/logos/PERP.png"
+    },
+    {
+      "name": "USDC",
+      "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 10,
+      "logoURI": "https://optimistic.etherscan.io/token/images/usdc_32.png"
+    },
+    {
+      "name": "DAI",
+      "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 10,
+      "logoURI": "https://optimistic.etherscan.io/token/images/MCDDai_32.png"
     },
     {
       "name": "USDT",
