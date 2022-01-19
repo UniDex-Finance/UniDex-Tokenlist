@@ -6552,6 +6552,22 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png"
     },
     {
+      "name": "Creditum",
+      "symbol": "CREDIT",
+      "address": "0x77128dfdd0ac859b33f44050c6fa272f34872b5e",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://assets.spookyswap.finance/tokens/CREDIT.png"
+    },
+    {
+      "name": "BeethovenX",
+      "symbol": "BEETS",
+      "address": "0xf24bcf4d1e507740041c9cfd2dddb29585adce1e",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/small/beets-icon-large.png?1634545465"
+    },
+    {
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
@@ -6565,7 +6581,7 @@
       "address": "0x911da02c1232a3c3e1418b834a311921143b04d7",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://swap.spiritswap.finance/images/coins/WeVE.png"
+      "logoURI": "https://pbs.twimg.com/profile_images/1483467835024289793/S0aENDh0_400x400.jpg"
     },
     {
       "name": "Frapped USDT",
