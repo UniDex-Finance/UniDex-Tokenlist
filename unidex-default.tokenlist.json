@@ -8988,6 +8988,22 @@
       "decimals": 18,
       "chainId": 288,
       "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000/logo.png"
+    },
+    {
+      "name": "Wrapped ETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 10,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000/logo.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 10,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b/logo.png"
     }
     ]
   }
