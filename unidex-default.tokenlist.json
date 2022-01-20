@@ -7807,6 +7807,14 @@
     },
     {
       "chainId": 43114,
+      "address": "0x62edc0692bd897d2295872a9ffcac5425011c661",
+      "decimals": 18,
+      "name": "GMX IO",
+      "symbol": "GMX",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
       "decimals": 18,
       "name": "ROCO",
