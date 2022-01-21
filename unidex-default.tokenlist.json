@@ -9964,7 +9964,31 @@
           "name": "Fantom Token",
           "symbol": "rFTM",
           "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xa9109271abcf0c4106ab7366b4edb34405947eed/logo.png"
-          }
+          },
+          {
+            "name": "Crona Token",
+            "symbol": "CRONA",
+            "address": "0xadbd1231fb360047525BEdF962581F3eee7b49fe",
+            "chainId": 25,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/cronaswap/cronaswap-tokenlists/main/tokens/0xadbd1231fb360047525BEdF962581F3eee7b49fe/logo.png"
+          },
+            {
+              "name": "Trisolaris Token",
+              "address": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
+              "symbol": "TRI",
+              "decimals": 18,
+              "chainId": 1313161554,
+              "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xFa94348467f64D5A457F75F8bc40495D33c65aBB/logo.png"
+            },
+          {
+            "chainId": 106,
+            "address": "0xc579d1f3cf86749e05cd06f7ade17856c2ce3126",
+            "decimals": 18,
+            "name": "Wrapped VLX",
+            "symbol": "WVLX",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0xa9109271abcf0c4106ab7366b4edb34405947eed/logo.png"
+            }
     ]
   }
   
