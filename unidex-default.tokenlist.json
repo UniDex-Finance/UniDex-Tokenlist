@@ -6680,6 +6680,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13423/large/frax_share.png"
     },
     {
+      "name": "Wrapped MEMO",
+      "symbol": "wMEMO",
+      "address": "0xddc0385169797937066bbd8ef409b5b3c0dfeb52",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17076.png"
+    },
+    {
       "name": "MMToken",
       "symbol": "MM",
       "address": "0xbFaf328Fe059c53D936876141f38089df0D1503D",
