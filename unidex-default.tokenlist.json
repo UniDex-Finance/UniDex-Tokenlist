@@ -7148,12 +7148,12 @@
         "logoURI": "https://exchange.paintswap.finance/images/coins/0x85dec8c4B2680793661bCA91a8F129607571863d.png"
       },
       {
-        "name": "Chad Finance",
-        "address": "0xCcE93540b80ABF71B66E0a44fd71E322cE9C4D9e",
-        "symbol": "CHAD",
+        "name": "Data",
+        "address": "0x1701cc8854dba6e2c6f9d815eaa5f6f37688eab0",
+        "symbol": "DATA",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://exchange.paintswap.finance/images/coins/0xCcE93540b80ABF71B66E0a44fd71E322cE9C4D9e.png"
+        "logoURI": "https://datadao.finance/static/media/loader.a9a76837.png"
       },
       {
         "name": "Tomb Finance",
