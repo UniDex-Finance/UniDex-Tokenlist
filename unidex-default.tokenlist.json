@@ -6520,6 +6520,14 @@
       "logoURI": "https://ftmscan.com/token/images/hectordao_32.png"
     },
     {
+      "name": "OneRing",
+      "symbol": "RING",
+      "address": "0x582423c10c9e83387a96d00a69ba3d11ee47b7b5",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/onering_32.png"
+    },
+    {
       "name": "Morpheus Token",
       "symbol": "MORPH",
       "address": "0x0789ff5ba37f72abc4d561d00648acadc897b32d",
