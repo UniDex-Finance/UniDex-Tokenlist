@@ -7188,6 +7188,14 @@
         "logoURI": "https://ftmscan.com/token/images/hegic_32.png"
       },
       {
+        "name": "Protofi",
+        "address": "0xa23c4e69e5eaf4500f2f9301717f12b578b948fb",
+        "symbol": "PROTO",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.coingecko.com/coins/images/22916/small/1_d8Ut8seuWstkmozGddqsrg.png?1642996827"
+      },
+      {
         "name": "IceToken",
         "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
         "symbol": "ICE",
