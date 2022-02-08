@@ -7155,22 +7155,6 @@
         "decimals": 18,
         "logoURI": "https://exchange.paintswap.finance/images/coins/0x85dec8c4B2680793661bCA91a8F129607571863d.png"
       },
-    {
-      "name": "Dope Token Degen Haus",
-      "symbol": "DOPE",
-      "address": "0x9f3c6e1bd483cd977df9b36734e1cd684f1be621",
-      "chainId": 250,
-      "decimals": 9,
-      "logoURI": "https://app.degen.haus/images/tokens/0x9f3c6e1bd483cd977df9b36734e1cd684f1be621.png",
-    },
-    {
-      "name": "Trip Token Degen Haus",
-      "symbol": "TRIP",
-      "address": "0xd948efcc99be419ca9bdace89b2bec31edf13adb",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://app.degen.haus/images/tokens/0xd948efcc99be419ca9bdace89b2bec31edf13adb.png",
-    },
       {
         "name": "Tomb Finance",
         "address": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
