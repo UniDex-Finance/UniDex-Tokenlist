@@ -7188,6 +7188,22 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22916/small/1_d8Ut8seuWstkmozGddqsrg.png?1642996827"
       },
       {
+        "name": "Dope Token",
+        "symbol": "DOPE",
+        "address": "0x9f3c6e1bd483cd977df9b36734e1cd684f1be621",
+        "chainId": 250,
+        "decimals": 9,
+        "logoURI": "https://app.degen.haus/images/tokens/0x9f3c6e1bd483cd977df9b36734e1cd684f1be621.png"
+      },
+      {
+        "name": "Trip Token",
+        "symbol": "TRIP",
+        "address": "0xd948efcc99be419ca9bdace89b2bec31edf13adb",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://app.degen.haus/images/tokens/0xd948efcc99be419ca9bdace89b2bec31edf13adb.png"
+      },
+      {
         "name": "IceToken",
         "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
         "symbol": "ICE",
