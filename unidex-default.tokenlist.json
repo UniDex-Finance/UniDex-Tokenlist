@@ -7188,12 +7188,12 @@
         "logoURI": "https://exchange.paintswap.finance/images/coins/0x9Ba3e4F84a34DF4e08C112e1a0FF148b81655615.png"
       },
       {
-        "name": "Hegic",
-        "address": "0x44B26E839eB3572c5E959F994804A5De66600349",
-        "symbol": "HEGIC",
+        "name": "Yoshi",
+        "address": "0x3dc57B391262e3aAe37a08D91241f9bA9d58b570",
+        "symbol": "YOSHI",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://ftmscan.com/token/images/hegic_32.png"
+        "logoURI": "https://assets.spookyswap.finance/tokens/YOSHI.png"
       },
       {
         "name": "Protofi",
