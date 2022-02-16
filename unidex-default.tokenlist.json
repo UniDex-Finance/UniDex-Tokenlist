@@ -9030,6 +9030,134 @@
       "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000/logo.png"
     },
     {
+      "name": "Wagyu",
+      "symbol": "WAG",
+      "address": "0xabf26902fd7b624e0db40d31171ea9dddf078351",
+      "chainId": 106,
+      "decimals": 18,
+      "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas/assets/0xabf26902fd7b624e0db40d31171ea9dddf078351/logo.png?raw=true"
+    },
+    {
+      "name": "Velas Pad",
+      "symbol": "VLXPAD",
+      "address": "0xa065e0858417dfc7abc6f2bd4d0185332475c180",
+      "chainId": 106,
+      "decimals": 18,
+      "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas/assets/0xa065e0858417dfc7abc6f2bd4d0185332475c180/logo.png?raw=true"
+    },
+    {
+      "name": "Bitorbit",
+      "symbol": "BITORB",
+      "address": "0x09bce7716d46459df7473982fd27a96eabd6ee4d",
+      "chainId": 106,
+      "decimals": 18,
+      "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas/assets/0x09bce7716d46459df7473982fd27a96eabd6ee4d/logo.png?raw=true"
+    },
+    {
+      "name": "AstroSwap",
+      "symbol": "ASTRO",
+      "address": "0x72eb7ca07399ec402c5b7aa6a65752b6a1dc0c27",
+      "chainId": 106,
+      "decimals": 18,
+      "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas/assets/0x72eb7ca07399ec402c5b7aa6a65752b6a1dc0c27/logo.png?raw=true"
+    },
+    {
+      "name": "Velhalla",
+      "symbol": "SCAR",
+      "address": "0x8d9fb713587174ee97e91866050c383b5cee6209",
+      "chainId": 106,
+      "decimals": 18,
+      "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas/assets/0x8d9fb713587174ee97e91866050c383b5cee6209/logo.png?raw=true"
+    },
+    {
+      "name": "SWAPZ.app",
+      "symbol": "SWAPZ",
+      "address": "0x9b6fbF0ea23faF0d77B94d5699B44062e5E747Ac",
+      "chainId": 106,
+      "decimals": 18,
+      "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas/assets/0x9b6fbF0ea23faF0d77B94d5699B44062e5E747Ac/logo.png?raw=true"
+    },
+    {
+      "name": "USD Velero Stablecoin",
+      "symbol": "USDV",
+      "address": "0xcd7509b76281223f5b7d3ad5d47f8d7aa5c2b9bf",
+      "chainId": 106,
+      "decimals": 18,
+      "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas/assets/0xcd7509b76281223f5b7d3ad5d47f8d7aa5c2b9bf/logo.png?raw=true"
+    },
+    {
+      "name": "Multichain ETH",
+      "symbol": "ETH",
+      "address": "0x85219708c49aa701871Ad330A94EA0f41dFf24Ca",
+      "chainId": 106,
+      "decimals": 18,
+      "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas/assets/0x85219708c49aa701871ad330a94ea0f41dff24ca/logo.png?raw=true"
+    },
+    {
+      "name": "Multichain BUSD",
+      "symbol": "BUSD",
+      "address": "0xc111c29A988AE0C0087D97b33C6E6766808A3BD3",
+      "chainId": 106,
+      "decimals": 18,
+      "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas/assets/0xc111c29a988ae0c0087d97b33c6e6766808a3bd3/logo.png?raw=true"
+    },
+    {
+      "name": "Multichain USDC",
+      "symbol": "USDC",
+      "address": "0xe2C120f188eBd5389F71Cf4d9C16d05b62A58993",
+      "chainId": 106,
+      "decimals": 6,
+      "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas/assets/0xe2c120f188ebd5389f71cf4d9c16d05b62a58993/logo.png?raw=true"
+    },
+    {
+      "name": "Multichain USDT",
+      "symbol": "USDT",
+      "address": "0x01445C31581c354b7338AC35693AB2001B50b9aE",
+      "chainId": 106,
+      "decimals": 6,
+      "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas/assets/0x01445c31581c354b7338ac35693ab2001b50b9ae/logo.png?raw=true"
+    },
+    {
+      "name": "Multichain ETH",
+      "symbol": "ETH",
+      "address": "0x3538C7f88aDbc8ad1F435f7EA70287e26b926344",
+      "chainId": 111,
+      "decimals": 18,
+      "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas-test/assets/0x3538C7f88aDbc8ad1F435f7EA70287e26b926344/logo.png?raw=true"
+    },
+    {
+      "name": "Multichain BUSD",
+      "symbol": "BUSD",
+      "address": "0xe2172a8E1762ae9962A59EE88a731522A61a4cc9",
+      "chainId": 111,
+      "decimals": 18,
+      "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas-test/assets/0xe2172a8E1762ae9962A59EE88a731522A61a4cc9/logo.png?raw=true"
+    },
+    {
+      "name": "Multichain USDC",
+      "symbol": "USDC",
+      "address": "0x6b82bDB5a1AdFfa3816D1F942D60f0269647C646",
+      "chainId": 111,
+      "decimals": 6,
+      "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas-test/assets/0x6b82bDB5a1AdFfa3816D1F942D60f0269647C646/logo.png?raw=true"
+    },
+    {
+      "name": "Multichain USDT",
+      "symbol": "USDT",
+      "address": "0x6Ef054B3E3C3C83E14527E8fa593c2c4435A6ea4",
+      "chainId": 111,
+      "decimals": 6,
+      "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas-test/assets/0x6Ef054B3E3C3C83E14527E8fa593c2c4435A6ea4/logo.png?raw=true"
+    },
+    {
+      "name": "Wagyu",
+      "symbol": "WAG",
+      "address": "0xb830d8213e2c3dd621037703d05a5e594387b6be",
+      "chainId": 111,
+      "decimals": 18,
+      "logoURI": "https://github.com/wagyuswapapp/assets/blob/master/blockchains/velas-test/assets/0xb830d8213e2c3dd621037703d05a5e594387b6be/logo.png?raw=true"
+    },
+    {
       "name": "Wrapped ETH",
       "address": "0x4200000000000000000000000000000000000006",
       "symbol": "WETH",
