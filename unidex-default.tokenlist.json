@@ -7156,6 +7156,22 @@
         "logoURI": "https://exchange.paintswap.finance/images/coins/0x85dec8c4B2680793661bCA91a8F129607571863d.png"
       },
       {
+        "name": "Solidly",
+        "symbol": "SOLID",
+        "address": "0x888EF71766ca594DED1F0FA3AE64eD2941740A20",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://ftmscan.com/token/images/solidly_32.png"
+      },
+      {
+        "name": "Solidex",
+        "symbol": "SEX",
+        "address": "0xd31fcd1f7ba190dbc75354046f6024a9b86014d7",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://ftmscan.com/token/images/solidex_32.png?v=2"
+      },
+      {
         "name": "Dope Token",
         "symbol": "DOPE",
         "address": "0x9f3c6e1bd483cd977df9b36734e1cd684f1be621",
