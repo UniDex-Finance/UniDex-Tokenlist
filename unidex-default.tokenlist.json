@@ -7156,6 +7156,22 @@
         "logoURI": "https://exchange.paintswap.finance/images/coins/0x85dec8c4B2680793661bCA91a8F129607571863d.png"
       },
       {
+        "name": "UST",
+        "symbol": "UST",
+        "address": "0x846e4D51d7E2043C1a87E0Ab7490B93FB940357b",
+        "chainId": 250,
+        "decimals": 6,
+        "logoURI": "https://ftmscan.com/token/images/wormholeust_32.png"
+      },
+      {
+        "name": "Excalibur",
+        "symbol": "EXC",
+        "address": "0x6e99e0676a90b2a5a722c44109db22220382cc9f",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://app.excalibur.exchange/images/tokens/exc.svg"
+      },
+      {
         "name": "Solidly",
         "symbol": "SOLID",
         "address": "0x888EF71766ca594DED1F0FA3AE64eD2941740A20",
