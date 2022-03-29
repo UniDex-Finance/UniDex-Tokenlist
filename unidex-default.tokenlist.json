@@ -6599,6 +6599,14 @@
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png"
     },
+     {
+      "name": "Kanpeki",
+      "symbol": "KAE",
+      "address": "0x65def5029a0e7591e46b38742bfedd1fb7b24436",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://assets.spookyswap.finance/tokens/KAE.png"
+    },
     {
       "name": "Graviton",
       "symbol": "GTON",
