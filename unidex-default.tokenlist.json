@@ -7211,6 +7211,14 @@
         "decimals": 18,
         "logoURI": "https://ftmscan.com/token/images/solidex_32.png?v=2"
       },
+       {
+        "name": "Thorstarter",
+        "symbol": "XRUNE",
+        "address": "0xe1e6b01ae86ad82b1f1b4eb413b219ac32e17bf6",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10260.png"
+      },
       {
         "name": "Dope Token",
         "symbol": "DOPE",
