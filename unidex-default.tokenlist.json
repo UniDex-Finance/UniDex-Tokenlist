@@ -6368,37 +6368,21 @@
         "logoURI": "https://i.imgur.com/71cyFzj.png"
       },
       {
-        "name": "Soul Power",
-        "address": "0xe2fb177009FF39F52C0134E8007FA0e4BaAcBd07",
-        "symbol": "SOUL",
-        "decimals": 18,
+        "name": "Wrapped Bitcoin",
+        "symbol": "wBTC",
+        "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
         "chainId": 250,
-        "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/prod/soul.png"
-     },
+        "decimals": 8,
+        "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png"
+      },
       {
-      "name": "Seance Circle",
-      "address": "0x124b06c5ce47de7a6e9efda71a946717130079e6",
-      "symbol": "SEANCE",
-      "decimals": 18,
-      "chainId": 250,
-      "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom-testnet/assets/0xba34a07d0282a023e08ceb6098e59dfbebe9f1e1/logo.png"
-     },
-      {
-      "name": "Enchantment",
-      "address": "0x6a1a8368D607c7a808F7BbA4F7aEd1D9EbDE147a",
-      "symbol": "ENCHANT",
-      "decimals": 18,
-      "chainId": 250,
-      "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x6a1a8368D607c7a808F7BbA4F7aEd1D9EbDE147a/logo.png"
-     },
-     {
-      "name": "Aave",
-      "symbol": "AAVE",
-      "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png"
-    },
+        "name": "Wrapped Ether",
+        "symbol": "wETH",
+        "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
+      },
     {
       "name": "USD Coin",
       "symbol": "USDC",
@@ -6406,14 +6390,6 @@
       "chainId": 250,
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
-    },
-    {
-      "name": "Luxor",
-      "symbol": "LUX",
-      "address": "0x6671e20b83ba463f270c8c75dae57e3cc246cb2b",
-      "chainId": 250,
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x6671E20b83Ba463F270c8c75dAe57e3Cc246cB2b/logo.png"
     },
     {
       "name": "Badger",
@@ -6432,12 +6408,44 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
     },
     {
-      "name": "Band Protocol",
-      "symbol": "BAND",
-      "address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
+      "name": "DEUS",
+      "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+      "symbol": "DEUS",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://ftmscan.com/token/images/deusfinancepoly_32.png"
+    },
+    {
+      "name": "DEI",
+      "address": "0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3",
+      "symbol": "DEI",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://ftmscan.com/token/images/deusdei3_32.png"
+    },
+    {
+      "name": "BeethovenX",
+      "symbol": "BEETS",
+      "address": "0xf24bcf4d1e507740041c9cfd2dddb29585adce1e",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9545/large/band-protocol.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/19158/small/beets-icon-large.png?1634545465"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/large/dai-multi-collateral-mcd.png"
+    },
+    {
+      "name": "Frapped USDT",
+      "symbol": "fUSDT",
+      "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+      "chainId": 250,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png"
     },
     {
       "name": "Hundred Finance",
@@ -6480,20 +6488,44 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x090185f2135308BaD17527004364eBcC2D37e5F6/logo.png"
     },
     {
-      "name": "DEUS",
-      "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
-      "symbol": "DEUS",
-      "decimals": 18,
+      "name": "TOMB",
+      "symbol": "TOMB",
+      "address": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/deusfinancepoly_32.png"
+      "decimals": 18,
+      "logoURI": "https://assets.spookyswap.finance/tokens/TOMB.png"
     },
     {
-      "name": "DEI",
-      "address": "0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3",
-      "symbol": "DEI",
-      "decimals": 18,
+      "name": "TSHARE",
+      "symbol": "TSHARE",
+      "address": "0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37",
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/deusdei3_32.png"
+      "decimals": 18,
+      "logoURI": "https://assets.spooky.fi/tokens/TSHARE.png"
+    },
+    {
+      "name": "BSHARE",
+      "symbol": "BSHARE",
+      "address": "0x49C290Ff692149A4E16611c694fdED42C954ab7a",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://basedfinance.io/static/media/bshare.bc72c486.svg"
+    },
+    {
+      "name": "BASED",
+      "symbol": "BASED",
+      "address": "0x8D7d3409881b51466B483B11Ea1B8A03cdEd89ae",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://basedfinance.io/static/media/based.58a99516.svg"
+    },
+    {
+      "name": "miMATIC",
+      "symbol": "miMATIC",
+      "address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/mimatic_32.png"
     },
     {
       "name": "Fantohm",
@@ -6511,6 +6543,38 @@
       "decimals": 9,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13748.png"
     },
+    {
+      "name": "Soul Power",
+      "address": "0xe2fb177009FF39F52C0134E8007FA0e4BaAcBd07",
+      "symbol": "SOUL",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/prod/soul.png"
+   },
+    {
+    "name": "Seance Circle",
+    "address": "0x124b06c5ce47de7a6e9efda71a946717130079e6",
+    "symbol": "SEANCE",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom-testnet/assets/0xba34a07d0282a023e08ceb6098e59dfbebe9f1e1/logo.png"
+   },
+    {
+    "name": "Enchantment",
+    "address": "0x6a1a8368D607c7a808F7BbA4F7aEd1D9EbDE147a",
+    "symbol": "ENCHANT",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x6a1a8368D607c7a808F7BbA4F7aEd1D9EbDE147a/logo.png"
+   },
+   {
+    "name": "Luxor",
+    "symbol": "LUX",
+    "address": "0x6671e20b83ba463f270c8c75dae57e3cc246cb2b",
+    "chainId": 250,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x6671E20b83Ba463F270c8c75dAe57e3Cc246cB2b/logo.png"
+  },
     {
       "name": "Cover Protocol",
       "symbol": "COVER",
@@ -6583,30 +6647,6 @@
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png"
     },
-    {
-      "name": "BeethovenX",
-      "symbol": "BEETS",
-      "address": "0xf24bcf4d1e507740041c9cfd2dddb29585adce1e",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/19158/small/beets-icon-large.png?1634545465"
-    },
-    {
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9956/large/dai-multi-collateral-mcd.png"
-    },
-    {
-      "name": "Frapped USDT",
-      "symbol": "fUSDT",
-      "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
-      "chainId": 250,
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png"
-    },
      {
       "name": "Kanpeki",
       "symbol": "KAE",
@@ -6656,20 +6696,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
     },
     {
-      "name": "Wrapped Bitcoin",
-      "symbol": "wBTC",
-      "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
-      "chainId": 250,
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "symbol": "wETH",
-      "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+      "name": "Aave",
+      "symbol": "AAVE",
+      "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png"
     },
     {
       "name": "Wrapped FTM",
@@ -6726,46 +6758,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12704/large/token.png"
-    },
-    {
-      "name": "TOMB",
-      "symbol": "TOMB",
-      "address": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/TOMB.png"
-    },
-    {
-      "name": "TSHARE",
-      "symbol": "TSHARE",
-      "address": "0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.spooky.fi/tokens/TSHARE.png"
-    },
-    {
-      "name": "BSHARE",
-      "symbol": "BSHARE",
-      "address": "0x49C290Ff692149A4E16611c694fdED42C954ab7a",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://basedfinance.io/static/media/bshare.bc72c486.svg"
-    },
-    {
-      "name": "BASED",
-      "symbol": "BASED",
-      "address": "0x8D7d3409881b51466B483B11Ea1B8A03cdEd89ae",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://basedfinance.io/static/media/based.58a99516.svg"
-    },
-    {
-      "name": "miMATIC",
-      "symbol": "miMATIC",
-      "address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://ftmscan.com/token/images/mimatic_32.png"
     },
     {
       "name": "BOMB",
@@ -8864,6 +8856,14 @@
       "decimals": 18,
       "chainId": 288,
       "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7/logo.png"
+    },
+    {
+      "name": "UniDex",
+      "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+      "symbol": "UNIDX",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://i.imgur.com/71cyFzj.png"
     },
     {
       "name": "Binance-Peg BUSD Token",
