@@ -6472,6 +6472,22 @@
       "logoURI": "https://pbs.twimg.com/profile_images/1454537818277957637/_dLPsk9__400x400.jpg"
     },
     {
+      "address": "0x468003b688943977e6130f4f68f23aad939a1040",
+      "chainId": 250,
+      "name": "Spell Token",
+      "symbol": "SPELL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x090185f2135308BaD17527004364eBcC2D37e5F6/logo.png"
+    },
+    {
+      "name": "DEUS",
+      "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+      "symbol": "DEUS",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://ftmscan.com/token/images/deusfinancepoly_32.png"
+    },
+    {
       "name": "Fantohm",
       "symbol": "FHM",
       "address": "0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286",
@@ -6776,12 +6792,20 @@
       "logoURI": "https://assets.coingecko.com/coins/images/16786/large/mimlogopng.png"
     },
     {
+      "name": "Liquid Driver",
+      "symbol": "LQDR",
+      "address": "0x10b620b2dbAC4Faa7D7FFD71Da486f5D44cd86f9",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/liquiddriver_32.png"
+    },
+    {
       "name": "ShadeToken",
       "symbol": "SHADE",
       "address": "0x3A3841f5fa9f2c283EA567d5Aeea3Af022dD2262",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/SHADE.png"
+      "logoURI": "https://ftmscan.com/token/images/shadecash_32.png"
     },
     {
       "name": "AtariToken",
@@ -7134,14 +7158,6 @@
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://exchange.paintswap.finance/images/coins/0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7.png"
-      },
-      {
-        "name": "Shiba Fantom",
-        "address": "0x9ba3e4f84a34df4e08c112e1a0ff148b81655615",
-        "symbol": "SHIBA",
-        "decimals": 9,
-        "chainId": 250,
-        "logoURI": "https://exchange.paintswap.finance/images/coins/0x9Ba3e4F84a34DF4e08C112e1a0FF148b81655615.png"
       },
       {
         "name": "Yoshi",
