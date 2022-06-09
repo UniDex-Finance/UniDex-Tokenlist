@@ -6413,7 +6413,7 @@
       "address": "0x6671e20b83ba463f270c8c75dae57e3cc246cb2b",
       "chainId": 250,
       "decimals": 9,
-      "logoURI": "https://app.luxor.money/static/media/logo.6853673b.png"
+      "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x6671E20b83Ba463F270c8c75dAe57e3Cc246cB2b/logo.png"
     },
     {
       "name": "Badger",
@@ -6453,7 +6453,7 @@
       "address": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/BOO.png"
+      "logoURI": "https://assets.spooky.fi/tokens/BOO.png"
     },
     {
       "address": "0x468003b688943977e6130f4f68f23aad939a1040",
@@ -6560,14 +6560,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12124/large/Curve.png"
     },
     {
-      "name": "Creditum",
-      "symbol": "CREDIT",
-      "address": "0x77128dfdd0ac859b33f44050c6fa272f34872b5e",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/CREDIT.png"
-    },
-    {
       "name": "BeethovenX",
       "symbol": "BEETS",
       "address": "0xf24bcf4d1e507740041c9cfd2dddb29585adce1e",
@@ -6584,14 +6576,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/9956/large/dai-multi-collateral-mcd.png"
     },
     {
-      "name": "veDAO",
-      "symbol": "WeVE",
-      "address": "0x911da02c1232a3c3e1418b834a311921143b04d7",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://pbs.twimg.com/profile_images/1483467835024289793/S0aENDh0_400x400.jpg"
-    },
-    {
       "name": "Frapped USDT",
       "symbol": "fUSDT",
       "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
@@ -6605,7 +6589,7 @@
       "address": "0x65def5029a0e7591e46b38742bfedd1fb7b24436",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/KAE.png"
+      "logoURI": "https://assets.spooky.fi/tokens/KAE.png"
     },
     {
       "name": "Graviton",
@@ -6669,7 +6653,7 @@
       "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/coins/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83.png"
+      "logoURI": "https://assets.spooky.fi/tokens/wFTM.png"
     },
     {
       "name": "yearn.finance",
@@ -6678,14 +6662,6 @@
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/11849/large/yfi-192x192.png"
-    },
-    {
-      "name": "ZooCoin",
-      "symbol": "ZOO",
-      "address": "0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56",
-      "chainId": 250,
-      "decimals": 0,
-      "logoURI": "https://assets.spookyswap.finance/tokens/ZOO.png"
     },
     {
       "name": "Frax Share",
@@ -6704,28 +6680,12 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17076.png"
     },
     {
-      "name": "MMToken",
-      "symbol": "MM",
-      "address": "0xbFaf328Fe059c53D936876141f38089df0D1503D",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/MM.png"
-    },
-    {
       "name": "Binance Coin",
       "symbol": "BNB",
       "address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
       "chainId": 250,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/825/large/binance-coin-logo.png"
-    },
-    {
-      "name": "Woofy",
-      "symbol": "WOOFY",
-      "address": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
-      "chainId": 250,
-      "decimals": 12,
-      "logoURI": "https://assets.spookyswap.finance/tokens/WOOFY.png"
     },
     {
       "name": "Anyswap",
@@ -6757,7 +6717,31 @@
       "address": "0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/TSHARE.png"
+      "logoURI": "https://assets.spooky.fi/tokens/TSHARE.png"
+    },
+    {
+      "name": "BSHARE",
+      "symbol": "BSHARE",
+      "address": "0x49C290Ff692149A4E16611c694fdED42C954ab7a",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://basedfinance.io/static/media/bshare.bc72c486.svg"
+    },
+    {
+      "name": "BASED",
+      "symbol": "BASED",
+      "address": "0x8D7d3409881b51466B483B11Ea1B8A03cdEd89ae",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://basedfinance.io/static/media/based.58a99516.svg"
+    },
+    {
+      "name": "miMATIC",
+      "symbol": "miMATIC",
+      "address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/mimatic_32.png"
     },
     {
       "name": "BOMB",
@@ -6766,22 +6750,6 @@
       "chainId": 250,
       "decimals": 0,
       "logoURI": "https://assets.spookyswap.finance/tokens/BOMB.png"
-    },
-    {
-      "name": "Boo MirrorWorld",
-      "symbol": "xBOO",
-      "address": "0xa48d959AE2E88f1dAA7D5F611E01908106dE7598",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/xBOO.png"
-    },
-    {
-      "name": "Smart Token",
-      "symbol": "SMART",
-      "address": "0x34D33dc8Ac6f1650D94A7E9A972B47044217600b",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/SMART.png"
     },
     {
       "name": "aUSD",
@@ -6829,7 +6797,7 @@
       "address": "0x627524d78B4fC840C887ffeC90563c7A42b671fD",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/KEK.png"
+      "logoURI": "https://assets.spooky.fi/tokens/KEK.png"
     },
     {
       "name": "YEL Token",
@@ -6837,15 +6805,7 @@
       "address": "0xD3b71117E6C1558c1553305b44988cd944e97300",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/YEL.png"
-    },
-    {
-      "name": "iFUSD",
-      "symbol": "iFUSD",
-      "address": "0x9fC071cE771c7B27b7d9A57C32c0a84c18200F8a",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/iFUSD.png"
+      "logoURI": "https://assets.spooky.fi/tokens/YEL.png"
     },
     {
       "name": "Scream",
@@ -6853,7 +6813,7 @@
       "address": "0xe0654C8e6fd4D733349ac7E09f6f23DA256bF475",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/SCREAM.png"
+      "logoURI": "https://assets.spooky.fi/tokens/SCREAM.png"
     },
     {
       "name": "Tarot",
@@ -6861,68 +6821,8 @@
       "address": "0xC5e2B037D30a390e62180970B3aa4E91868764cD",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/TAROT.png"
+      "logoURI": "https://assets.spooky.fi/tokens/TAROT.png"
     },
-    {
-      "name": "BABYBOO",
-      "symbol": "BABYBOO",
-      "address": "0x471762A7017A5B1A3e931F1A97aa03Ef1E7F4A73",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/BABYBOO.png"
-    },
-    {
-      "name": "Death",
-      "symbol": "Death",
-      "address": "0xeaF45B62d9d0Bdc1D763baF306af5eDD7C0d7e55",
-      "chainId": 250,
-      "decimals": 9,
-      "logoURI": "https://assets.spookyswap.finance/tokens/DEATH.png"
-    },
-    {
-      "name": "The Eye of Truth",
-      "symbol": "EYE",
-      "address": "0x496e1693A7B162c4f0Cd6a1792679cC48EcbCC8d",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/EYE.png"
-    },
-    {
-      "name": "Munny",
-      "symbol": "MUNNY",
-      "address": "0x195FE0c899434fB47Cd6c1A09ba9DA56A1Cca12C",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/MUNNY.png",
-      "bridgeId": "",
-      "nativeChain": ""
-    },
-    {
-      "name": "PenniToken",
-      "symbol": "PENNI",
-      "address": "0x47d0d625638b56084e76b8720475d175d171af9A",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/PENNI.png",
-      "bridgeId": "",
-      "nativeChain": ""
-    },
-    {
-      "name": "Fantums of Opera Token",
-      "symbol": "FOO",
-      "address": "0xFbc3c04845162F067A0B6F8934383E63899c3524",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/FOO.png"
-    },
-    {
-      "name": "SteakToken",
-      "symbol": "STEAK",
-      "address": "0x05848B832E872d9eDd84AC5718D58f21fD9c9649",
-      "chainId": 250,
-      "decimals": 18,
-      "logoURI": "https://assets.spookyswap.finance/tokens/STEAK.png"
-   },
       {
         "name": "Cream",
         "address": "0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6",
@@ -7018,14 +6918,6 @@
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://exchange.paintswap.finance/images/coins/0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7.png"
-      },
-      {
-        "name": "Shiba Fantom",
-        "address": "0x9ba3e4f84a34df4e08c112e1a0ff148b81655615",
-        "symbol": "SHIBA",
-        "decimals": 9,
-        "chainId": 250,
-        "logoURI": "https://exchange.paintswap.finance/images/coins/0x9Ba3e4F84a34DF4e08C112e1a0FF148b81655615.png"
       },
       {
         "name": "Hegic",
@@ -7257,7 +7149,7 @@
         "symbol": "YOSHI",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://assets.spookyswap.finance/tokens/YOSHI.png"
+        "logoURI": "https://assets.spooky.fi/tokens/YOSHI.png"
       },
       {
         "name": "Protofi",
