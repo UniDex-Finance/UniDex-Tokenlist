@@ -6488,6 +6488,14 @@
       "logoURI": "https://ftmscan.com/token/images/deusfinancepoly_32.png"
     },
     {
+      "name": "DEI",
+      "address": "0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3",
+      "symbol": "DEI",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://ftmscan.com/token/images/deusdei3_32.png"
+    },
+    {
       "name": "Fantohm",
       "symbol": "FHM",
       "address": "0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286",
