@@ -6360,14 +6360,6 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
       },
       {
-        "name": "UniDex",
-        "address": "0x2130d2a1e51112d349ccf78d2a1ee65843ba36e0",
-        "symbol": "UNIDX",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://i.imgur.com/71cyFzj.png"
-      },
-      {
         "name": "Wrapped Bitcoin",
         "symbol": "wBTC",
         "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
