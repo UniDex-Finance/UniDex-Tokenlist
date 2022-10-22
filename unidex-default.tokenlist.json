@@ -9608,7 +9608,7 @@
       "symbol": "ZRX",
       "decimals": 18,
       "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png"
-    }
+    },
     {
       "chainId": 1666600000,
       "address": "0xcF323Aad9E522B93F11c352CaA519Ad0E14eB40F",
