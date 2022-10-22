@@ -9525,7 +9525,7 @@
       "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
       "chainId": 10,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "name": "USD Coin",
       "symbol": "USDC"
     },
@@ -9544,14 +9544,6 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58.jpg",
       "name": "Tether USD",
       "symbol": "USDT"
-    },
-    {
-      "chainId": 10,
-      "address": "0xBA28feb4b6A6b81e3F26F08b83a19E715C4294fd",
-      "name": "UST (Wormhole)",
-      "symbol": "UST",
-      "decimals": 6,
-      "logoURI": "https://ethereum-optimism.github.io/data/UST/logo.png"
     },
     {
       "chainId": 10,
