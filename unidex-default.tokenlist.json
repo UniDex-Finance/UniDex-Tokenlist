@@ -7272,12 +7272,44 @@
         "symbol": "ALCH"
       },
       {
-        "address": "0x1a7BD9EDC36Fb2b3c0852bcD7438c2A957Fd7Ad5",
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
         "chainId": 42161,
-        "decimals": 9,
-        "logoURI": "https://raw.githubusercontent.com/ArbiMoonXyz/MyFiles/main/arbimoon.jpg",
-        "name": "ArbiMoon",
-        "symbol": "aMoon"
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+        "name": "USD Coin",
+        "symbol": "USDC"
+      },
+      {
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "chainId": 42161,
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+        "name": "Tether USD",
+        "symbol": "USDT"
+      },
+      {
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
+        "name": "DAI Stablecoin",
+        "symbol": "DAI"
+      },
+      {
+        "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/gmx.jpg",
+        "name": "GMX",
+        "symbol": "GMX"
+      },
+      {
+        "address": "0x031d35296154279DC1984dCD93E392b1f946737b",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cap.jpg",
+        "name": "Cap",
+        "symbol": "CAP"
       },
       {
         "address": "0x9f20de1fc9b161b34089cbEAE888168B44b03461",
@@ -7296,20 +7328,12 @@
         "symbol": "ARBY"
       },
       {
-        "address": "0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c",
-        "chainId": 42161,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c/logo.png",
-        "name": "Arbys",
-        "symbol": "ARBYS"
-      },
-      {
-        "address": "0xA6219B4Bf4B861A2b1C02da43b2aF266186eDC04",
+        "address": "0x606bf2272ad1772667753bb68b51ec67b166c3f0",
         "chainId": 42161,
         "decimals": 9,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xA6219B4Bf4B861A2b1C02da43b2aF266186eDC04/logo.png",
-        "name": "ArVault",
-        "symbol": "ARVAULT"
+        "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1",
+        "name": "LeverageInu",
+        "symbol": "LEVI"
       },
       {
         "address": "0x040d1EdC9569d4Bab2D15287Dc5A4F10F56a56B8",
@@ -7334,14 +7358,6 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xAFD871f684F21Ab9D7137608C71808f83D75e6fc/logo.png",
         "name": "Arbucks",
         "symbol": "BUCK"
-      },
-      {
-        "address": "0x031d35296154279DC1984dCD93E392b1f946737b",
-        "chainId": 42161,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cap.jpg",
-        "name": "Cap",
-        "symbol": "CAP"
       },
       {
         "address": "0x3a8B787f78D775AECFEEa15706D4221B40F345AB",
@@ -7382,14 +7398,6 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/crv.jpg",
         "name": "Curve DAO Token",
         "symbol": "CRV"
-      },
-      {
-        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-        "chainId": 42161,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
-        "name": "DAI Stablecoin",
-        "symbol": "DAI"
       },
       {
         "address": "0x69Eb4FA4a2fbd498C257C57Ea8b7655a2559A581",
@@ -7456,22 +7464,6 @@
         "symbol": "EUX"
       },
       {
-        "address": "0x876Ec6bE52486Eeec06bc06434f3E629D695c6bA",
-        "chainId": 42161,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x876Ec6bE52486Eeec06bc06434f3E629D695c6bA/logo.png",
-        "name": "FluidFi",
-        "symbol": "FLUID"
-      },
-      {
-        "address": "0x2338a5d62E9A766289934e8d2e83a443e8065b83",
-        "chainId": 42161,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x2338a5d62E9A766289934e8d2e83a443e8065b83.jpg",
-        "name": "Flux Protocol",
-        "symbol": "FLUX"
-      },
-      {
         "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
         "chainId": 42161,
         "decimals": 18,
@@ -7494,14 +7486,6 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fxs.jpg",
         "name": "Frax Share",
         "symbol": "FXS"
-      },
-      {
-        "address": "0x590020B1005b8b25f1a2C82c5f743c540dcfa24d",
-        "chainId": 42161,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/gmx.jpg",
-        "name": "GMX",
-        "symbol": "GMX"
       },
       {
         "address": "0xa0b862F60edEf4452F25B4160F177db44DeB6Cf1",
@@ -7838,22 +7822,6 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/uni.jpg",
         "name": "Uniswap",
         "symbol": "UNI"
-      },
-      {
-        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-        "chainId": 42161,
-        "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
-        "name": "USD Coin",
-        "symbol": "USDC"
-      },
-      {
-        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-        "chainId": 42161,
-        "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
-        "name": "Tether USD",
-        "symbol": "USDT"
       },
       {
         "address": "0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb",
