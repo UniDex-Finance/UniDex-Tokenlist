@@ -7256,22 +7256,6 @@
         "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.svg?v=003"
       },
       {
-        "address": "0x155f0DD04424939368972f4e1838687d6a831151",
-        "chainId": 42161,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/doge.jpg",
-        "name": "ArbiDoge",
-        "symbol": "ADoge"
-      },
-      {
-        "address": "0x0e15258734300290a651FdBAe8dEb039a8E7a2FA",
-        "chainId": 42161,
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/alch.jpg",
-        "name": "Alchemy",
-        "symbol": "ALCH"
-      },
-      {
         "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
         "chainId": 42161,
         "decimals": 6,
@@ -7352,12 +7336,52 @@
         "symbol": "BIFI"
       },
       {
-        "address": "0xAFD871f684F21Ab9D7137608C71808f83D75e6fc",
+        "address": "0x0e15258734300290a651FdBAe8dEb039a8E7a2FA",
         "chainId": 42161,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xAFD871f684F21Ab9D7137608C71808f83D75e6fc/logo.png",
-        "name": "Arbucks",
-        "symbol": "BUCK"
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/alch.jpg",
+        "name": "Alchemy",
+        "symbol": "ALCH"
+      },
+      {
+        "address": "0x4945970EfeEc98D393b4b979b9bE265A3aE28A8B",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1",
+        "name": "GMD",
+        "symbol": "GMD"
+      },
+      {
+        "address": "0x8073600F2Aba6d5FA496e3826E0B46b7EA6Fe2ba",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/images/main/empty-token.png?v=1",
+        "name": "Burnitrum",
+        "symbol": "Burni"
+      },
+      {
+        "address": "0xC74fE4c715510Ec2F8C61d70D397B32043F55Abe",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/mycelium_32.png",
+        "name": "MYC",
+        "symbol": "Mycelium"
+      },
+      {
+        "address": "0x5575552988A3A80504bBaeB1311674fCFd40aD4B",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12232/small/sperax_logo.jpg?1598342904",
+        "name": "Sperax",
+        "symbol": "SPA"
+      },
+      {
+        "address": "0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://arbiscan.io/token/images/bufferfinance2_32.png",
+        "name": "Buffer Token",
+        "symbol": "BFR"
       },
       {
         "address": "0x3a8B787f78D775AECFEEa15706D4221B40F345AB",
