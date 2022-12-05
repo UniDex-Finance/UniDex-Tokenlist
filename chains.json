@@ -4,7 +4,7 @@
     "chain": "ETH",
     "icon": "ethereum",
     "rpc": [
-      "https://cloudflare-eth.com"
+      "https://eth.sakurarpc.io"
     ],
     "features": [
       {
@@ -48,7 +48,7 @@
       "decimals": 18
     },
     "rpc": [
-      "https://cloudflare-eth.com"
+      "https://arbitrum.sakurarpc.io"
     ],
     "faucets": [],
     "explorers": [
@@ -78,7 +78,7 @@
     "name": "Optimism",
     "chain": "ETH",
     "rpc": [
-      "https://cloudflare-eth.com"
+      "https://optimism.sakurarpc.io"
     ],
     "faucets": [],
     "nativeCurrency": {
@@ -168,7 +168,7 @@
     "name": "Binance Smart Chain Mainnet",
     "chain": "BSC",
     "rpc": [
-      "https://cloudflare-eth.com"
+      "https://bnb.sakurarpc.io"
     ],
     "faucets": [
       "https://free-online-app.com/faucet-for-eth-evm-chains/"
@@ -196,7 +196,7 @@
     "chain": "Polygon",
     "icon": "polygon",
     "rpc": [
-      "https://cloudflare-eth.com"
+      "https://polygon.sakurarpc.io"
     ],
     "faucets": [],
     "nativeCurrency": {
@@ -224,7 +224,7 @@
       "https://cloudflare-eth.com"
     ],
     "faucets": [
-      "https://free-online-app.com/faucet-for-eth-evm-chains/"
+      "https://ftm.sakurarpc.io"
     ],
     "nativeCurrency": {
       "name": "Fantom",
@@ -250,7 +250,7 @@
     "chain": "AVAX",
     "icon": "avax",
     "rpc": [
-      "https://api.avax.network/ext/bc/C/rpc"
+      "https://avalanche.sakurarpc.io"
     ],
     "features": [
       {
