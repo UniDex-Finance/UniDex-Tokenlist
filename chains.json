@@ -221,7 +221,7 @@
     "name": "Fantom Opera",
     "chain": "FTM",
     "rpc": [
-      "https://cloudflare-eth.com"
+      "https://ftm.sakurarpc.io"
     ],
     "faucets": [
       "https://ftm.sakurarpc.io"
