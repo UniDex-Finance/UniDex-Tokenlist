@@ -4728,14 +4728,6 @@
         "logoURI": "https://hecoinfo.com/token/images/HT_32.png"
       },
       {
-        "name": "Matic Token",
-        "address": "MATIC",
-        "symbol": "MATIC",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
-      },
-      {
         "name": "Dfyn Token",
         "address": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
         "symbol": "DFYN",
@@ -5293,7 +5285,7 @@
       "symbol": "GNS",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://gains.trade/images/logo.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/13663.png"
     },
     {
       "name": "Helmet.insure on Polygon",
