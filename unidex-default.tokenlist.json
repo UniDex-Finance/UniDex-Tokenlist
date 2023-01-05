@@ -9609,14 +9609,6 @@
     },
     {
       "chainId": 10,
-      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-      "name": "Ether",
-      "symbol": "ETH",
-      "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg"
-    },
-    {
-      "chainId": 10,
       "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
       "name": "Frax",
       "symbol": "FRAX",
