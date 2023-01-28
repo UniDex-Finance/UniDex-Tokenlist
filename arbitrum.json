@@ -1,0 +1,55 @@
+{
+    "name": "UniDex Token List",
+    "timestamp": "2021-06-01T09:40:18.965Z",
+    "version": {
+      "major": 6,
+      "minor": 30,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://raw.githubusercontent.com/UniDex-Finance/UniDex-Site/main/img/biglogo.png",
+    "keywords": ["unidex", "default"],
+    "tokens": [
+        {
+            "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+            "chainId": 42161,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+            "name": "USD Coin",
+            "symbol": "USDC"
+          },
+          {
+            "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+            "chainId": 42161,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+            "name": "Tether USD",
+            "symbol": "USDT"
+          },
+          {
+            "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
+            "name": "DAI Stablecoin",
+            "symbol": "DAI"
+          },
+          {
+            "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/gmx.jpg",
+            "name": "GMX",
+            "symbol": "GMX"
+          },
+          {
+            "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/13663.png",
+            "name": "Gains Network",
+            "symbol": "GNS"
+          }
+    ]
+  }
+  
