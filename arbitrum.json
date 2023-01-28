@@ -35,6 +35,14 @@
             "symbol": "DAI"
           },
           {
+            "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+            "chainId": 42161,
+            "decimals": 18,
+            "logoURI": "https://arbiscan.io/token/images/weth_28.png",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+          },
+          {
             "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
             "chainId": 42161,
             "decimals": 18,
