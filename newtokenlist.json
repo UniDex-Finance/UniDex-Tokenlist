@@ -9,6 +9,339 @@
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/UniDex-Finance/UniDex-Site/main/img/biglogo.png",
   "keywords": ["unidex", "default"],
+  "frequentlyUsed": {
+    "ethereum": [
+      {
+        "chainId": 1,
+        "address": "0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c",
+        "name": "UniDex",
+        "symbol": "UNIDX",
+        "decimals": 18,
+        "logoURI": "https://i.imgur.com/71cyFzj.png"
+      },
+      {
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "chainId": 1,
+        "name": "USDCoin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
+      },
+      {
+        "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "chainId": 1,
+        "name": "DaiStablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png"
+      },
+      {
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "chainId": 1,
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      },
+      {
+        "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "chainId": 1,
+        "name": "Wrapped Bitcoin",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+      },
+      {
+        "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+        "chainId": 1,
+        "name": "LidoDAOToken",
+        "symbol": "LDO",
+        "decimals": 18,
+        "logoURI": "https://tokens.1inch.io/0x5a98fcbea516cf06857215779fd812ca3bef1b32.png"
+      },
+      {
+        "address": "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29",
+        "chainId": 1,
+        "name": "Synapse",
+        "symbol": "SYN",
+        "decimals": 18,
+        "logoURI": "https://tokens.1inch.io/0x0f2d719407fdbeff09d87557abb7232601fd9f29.png"
+      },
+      {
+        "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+        "chainId": 1,
+        "name": "FraxShare",
+        "symbol": "FXS",
+        "decimals": 18,
+        "logoURI": "https://tokens.1inch.io/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0.png"
+      }
+    ],
+    "bsc": [
+      {
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "chainId": 56,
+        "name": "BUSD Token",
+        "symbol": "BUSD",
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/busd_32.png"
+      },
+      {
+        "name": "Dai Token",
+        "symbol": "DAI",
+        "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/dai_32.png"
+      },
+      {
+        "name": "Ethereum Token",
+        "symbol": "ETH",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/ethereum_32.png"
+      },
+      {
+        "name": "Binance-Peg USD Coin",
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
+      },
+      {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/busdt_32.png"
+      },
+      {
+        "name": "Level Token",
+        "symbol": "LVL",
+        "address": "0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://bscscan.com/token/images/busdt_32.png"
+      },
+      {
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/binance/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.jpg",
+        "name": "BTCB Token",
+        "symbol": "BTCB"
+      },
+      {
+        "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cake.jpg",
+        "name": "PancakeSwap Token",
+        "symbol": "CAKE"
+      }
+    ],
+    "polygon": [
+      {
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "chainId": 137,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI"
+      },
+      {
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "chainId": 137,
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270/logo.png"
+      },
+      {
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "chainId": 137,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+        "name": "Wrapped Ether",
+        "symbol": "WETH"
+      },
+      {
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "chainId": 137,
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+        "name": "USD Coin",
+        "symbol": "USDC"
+      },
+      {
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "chainId": 137,
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+        "name": "Tether USD",
+        "symbol": "USDT"
+      },
+      {
+        "name": "Gains Network",
+        "address": "0xE5417Af564e4bFDA1c483642db72007871397896",
+        "symbol": "GNS",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/13663.png"
+      },
+      {
+        "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+        "chainId": 137,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/crv.jpg",
+        "name": "Curve",
+        "symbol": "CRV"
+      },
+      {
+        "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
+        "chainId": 137,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F/logo.png",
+        "name": "VOXEL Token",
+        "symbol": "VOXEL"
+      }
+    ],
+    "fantom": [
+      {
+        "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI"
+      },
+      {
+        "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+        "chainId": 250,
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+        "name": "USD Coin",
+        "symbol": "USDC"
+      },
+      {
+        "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+        "chainId": 250,
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+        "name": "Frapped USDT",
+        "symbol": "fUSDT"
+      },
+      {
+        "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+        "chainId": 250,
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/wbtc.jpg",
+        "name": "Wrapped Bitcoin",
+        "symbol": "WBTC"
+      },
+      {
+        "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+        "name": "Wrapped Ether",
+        "symbol": "WETH"
+      },
+      {
+        "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ftm.jpg",
+        "name": "Wrapped Fantom",
+        "symbol": "WFTM"
+      },
+      {
+        "name": "DEUS",
+        "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+        "symbol": "DEUS",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://ftmscan.com/token/images/deusfinancepoly_32.png"
+      },
+      {
+        "name": "SpookySwap",
+        "symbol": "BOO",
+        "address": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
+        "chainId": 250,
+        "decimals": 18,
+        "logoURI": "https://assets.spooky.fi/tokens/BOO.png"
+      }
+    ],
+    "arbitrum": [
+      {
+        "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "chainId": 42161,
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+        "name": "USD Coin",
+        "symbol": "USDC"
+      },
+      {
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "chainId": 42161,
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+        "name": "Tether USD",
+        "symbol": "USDT"
+      },
+      {
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
+        "name": "DAI Stablecoin",
+        "symbol": "DAI"
+      },
+      {
+        "address": "0x5429706887FCb58a595677B73E9B0441C25d993D",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/UniDex-Finance/UniDex-Tokenlist/main/unidexlogogreen.png",
+        "name": "UniDex",
+        "symbol": "UNIDX"
+      },
+      {
+        "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/gmx.jpg",
+        "name": "GMX",
+        "symbol": "GMX"
+      },
+      {
+        "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/13663.png",
+        "name": "Gains Network",
+        "symbol": "GNS"
+      },
+      {
+        "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x539bdE0d7Dbd336b79148AA742883198BBF60342.jpg",
+        "name": "MAGIC",
+        "symbol": "MAGIC"
+      },
+      {
+        "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
+        "chainId": 42161,
+        "decimals": 18,
+        "logoURI": "https://app.camelot.exchange/images/tokens/grail.svg",
+        "name": "Camelot",
+        "symbol": "GRAIL"
+      }
+    ]
+  },
+
   "tokens": [
     {
       "chainId": 1,
