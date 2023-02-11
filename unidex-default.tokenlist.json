@@ -7275,7 +7275,7 @@
         "address": "0x5429706887FCb58a595677B73E9B0441C25d993D",
         "chainId": 42161,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/UniDex-Finance/UniDex-Tokenlist/243bb836d4e2963bd39c2fd2d4d16d8ff664be47/unidexlogoblack.svg",
+        "logoURI": "https://raw.githubusercontent.com/UniDex-Finance/UniDex-Tokenlist/main/unidexlogoblack.png",
         "name": "UniDex",
         "symbol": "UNIDX"
       },
