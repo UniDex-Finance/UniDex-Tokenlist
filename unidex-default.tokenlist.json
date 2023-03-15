@@ -6752,12 +6752,12 @@
       "logoURI": "https://assets.spookyswap.finance/tokens/BOMB.png"
     },
     {
-      "name": "aUSD",
-      "symbol": "aUSD",
-      "address": "0x41e3dF7f716aB5AF28c1497B354D79342923196a",
+      "name": "Equalizer",
+      "symbol": "EQUAL",
+      "address": "0x3fd3a0c85b70754efc07ac9ac0cbbdce664865a6",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://aquarius.fi/assets/200/AUSD200-t.png"
+      "logoURI": "https://ftmscan.com/token/images/equalizer_32.png"
     },
     {
       "name": "Fantom USD",
@@ -9553,11 +9553,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
-      "name": "BarnBridge Governance Token",
-      "symbol": "BOND",
+      "address": "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05",
+      "name": "Velodrome",
+      "symbol": "VELO",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/BOND/logo.svg"
+      "logoURI": "https://docs.velodrome.finance/velodrome.svg"
     },
     {
       "address": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
@@ -9577,11 +9577,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
-      "name": "dForce",
-      "symbol": "DF",
+      "address": "0x8ae125e8653821e851f12a49f7765db9a9ce7384",
+      "name": "Dola USD Stablecoin",
+      "symbol": "DOLA",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/DF/logo.svg"
+      "logoURI": "https://docs.velodrome.finance/tokens/DOLA.png"
     },
     {
       "chainId": 10,
@@ -9609,12 +9609,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x81aB7E0D570b01411fcC4afd3D50eC8C241cb74b",
-      "name": "Equalizer",
-      "symbol": "EQZ",
+      "address": "0x1db2466d9f5e10d7090e7152b68d62703a2245f0",
+      "name": "Sonne Finance",
+      "symbol": "SONNE",
       "decimals": 18,
-      "logoURI": "https://ethereum-optimism.github.io/data/EQZ/logo.png"
-    },
+      "logoURI": "https://docs.velodrome.finance/tokens/SONNE.png"
     {
       "chainId": 10,
       "address": "0x7b0bcC23851bBF7601efC9E9FE532Bf5284F65d3",
