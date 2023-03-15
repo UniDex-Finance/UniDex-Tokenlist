@@ -9614,6 +9614,7 @@
       "symbol": "SONNE",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/SONNE.png"
+    },
     {
       "chainId": 10,
       "address": "0x7b0bcC23851bBF7601efC9E9FE532Bf5284F65d3",
