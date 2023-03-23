@@ -7304,12 +7304,12 @@
         "symbol": "CAP"
       },
       {
-        "address": "0x9f20de1fc9b161b34089cbEAE888168B44b03461",
+        "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
         "chainId": 42161,
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x9f20de1fc9b161b34089cbEAE888168B44b03461/logo.png",
-        "name": "Arbis",
-        "symbol": "ARBIS"
+        "logoURI": "https://arbiscan.io/images/logo-Arbiscan-white.svg?v=0.0.4",
+        "name": "Arbitrum",
+        "symbol": "ARB"
       },
       {
         "address": "0x09ad12552ec45f82bE90B38dFE7b06332A680864",
