@@ -7249,6 +7249,14 @@
       "chainId": 42161,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+      "name": "USDC.e",
+      "symbol": "USDC"
+    },
+    {
+      "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+      "chainId": 42161,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
       "name": "USD Coin",
       "symbol": "USDC"
     },
@@ -8070,9 +8078,17 @@
     },
     {
       "chainId": 43114,
-      "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+      "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
       "decimals": 6,
       "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+      "decimals": 6,
+      "name": "USDC.e",
       "symbol": "USDC.e",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
     },
