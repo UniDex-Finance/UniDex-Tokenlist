@@ -7293,6 +7293,14 @@
       "symbol": "GNS"
     },
     {
+      "address": "0x3A33473d7990a605a88ac72A78aD4EFC40a54ADB",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://pbs.twimg.com/profile_images/1577748349838671883/YvQqjq6i_400x400.jpg",
+      "name": "Tigris Trade",
+      "symbol": "TIG"
+    },
+    {
       "address": "0x031d35296154279DC1984dCD93E392b1f946737b",
       "chainId": 42161,
       "decimals": 18,
