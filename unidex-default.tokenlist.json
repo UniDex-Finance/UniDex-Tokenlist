@@ -12,7 +12,7 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c",
+      "address": "0xf0655dcee37e5c0b70fffd70d85f88f8edf0aff6",
       "name": "UniDex",
       "symbol": "UNIDX",
       "decimals": 18,
@@ -9542,11 +9542,11 @@
     },
     {
       "chainId": 10,
-      "address": "0x5d47baba0d66083c52009271faf3f50dcc01023c",
-      "name": "UniDex",
-      "symbol": "UNIDX",
+      "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+      "name": "VelodromeV2",
+      "symbol": "VELO",
       "decimals": 18,
-      "logoURI": "https://i.imgur.com/71cyFzj.png"
+      "logoURI": "https://optimistic.etherscan.io/token/images/velodrome_32.png"
     },
     {
       "chainId": 10,
