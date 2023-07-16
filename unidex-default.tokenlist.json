@@ -10806,14 +10806,6 @@
     },
     {
       "chainId": 324,
-      "address": "0xee1e88eb20becdebe1e88f50c9f8b1d72478f2d0",
-      "decimals": 18,
-      "name": "UniDex",
-      "symbol": "UNIDX",
-      "logoURI": "https://raw.githubusercontent.com/UniDex-Finance/UniDex-Tokenlist/main/unidexlogoblack.png"
-    },
-    {
-      "chainId": 324,
       "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
       "decimals": 18,
       "name": "Ether",
