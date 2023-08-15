@@ -11124,6 +11124,70 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon-zkevm/0x83b874c1e09D316059d929da402dcB1A98e92082.jpg",
       "name": "Staked MATIC",
       "symbol": "stMATIC"
+    },
+    {
+      "address": "0x6B4712AE9797C199edd44F897cA09BC57628a1CF",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/UniDex-Finance/UniDex-Tokenlist/main/unidexlogoblack.png",
+      "name": "UniDex",
+      "symbol": "UNIDX"
+    },
+    {
+      "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://basescan.org/token/images/daistablecoin_32.png",
+      "name": "Dai",
+      "symbol": "DAI"
+    },
+    {
+      "address": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://basescan.org/token/images/usdbc_ofc_32.png",
+      "name": "USDbC",
+      "symbol": "USDbC"
+    },
+    {
+      "address": "0x8544fe9d190fd7ec52860abbf45088e81ee24a8c",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://basescan.org/token/images/toshithecat_32.png",
+      "name": "Toshi",
+      "symbol": "TOSHI"
+    },
+    {
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/polygon-zkevm/0x83b874c1e09D316059d929da402dcB1A98e92082.jpg",
+      "name": "axlUSDC",
+      "symbol": "axlUSDC"
+    },
+    {
+      "address": "0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0x78a087d713be963bf307b18f2ff8122ef9a63ae9.png",
+      "name": "BaseSwap",
+      "symbol": "BSWAP"
+    },
+    {
+      "address": "0x71E8f538f47397Cd9A544041555CaFC7A0Ce9ae3",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x71E8f538f47397Cd9A544041555CaFC7A0Ce9ae3.png",
+      "name": "Perpboost",
+      "symbol": "BOOST"
+    },
+    {
+      "address": "0xbd2DBb8eceA9743CA5B16423b4eAa26bDcfE5eD2",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31190/small/synth.png?1691145281",
+      "name": "Synthswap",
+      "symbol": "SYNTH"
     }
   ]
 }
